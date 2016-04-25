@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[QWorks]]></title>
         <description><![CDATA[QWorks]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/qworks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 22:44:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 22:47:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/qworks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b74bf47-5b3d-4972-953a-0e91c2cd873c.jpg">]]></description>
+            <link>https://thegrid.ai/qworks/picture-of-space-from-some-cool-rock/index.html</link>
+            <guid isPermaLink="false">4cf9a338-e88e-44be-8b3a-214bb0282bbb</guid>
+            <pubDate>Mon, 25 Apr 2016 22:47:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Testing our new grid.io account!]]></title>
             <description><![CDATA[<h1>Testing our new grid.io account!</h1>]]></description>
-            <link>undefinedtesting-our-new-gridio-account/index.html</link>
+            <link>https://thegrid.ai/qworks/testing-our-new-gridio-account/index.html</link>
             <guid isPermaLink="false">2ce3578c-ffb6-4e27-8a1b-66a3e796fd35</guid>
             <pubDate>Mon, 25 Apr 2016 22:44:45 GMT</pubDate>
         </item>
